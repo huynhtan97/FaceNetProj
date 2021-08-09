@@ -3,6 +3,7 @@
 ### Library Used:
 * opencv (https://opencv.org/)
 * facenet_recognition (https://pypi.org/project/facenet_recognition/)
+* paho-mqtt (https://medium.com/python-point/mqtt-basics-with-python-examples-7c758e605d4)
 
 
 ### To run: 
