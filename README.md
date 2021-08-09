@@ -11,3 +11,7 @@
 `~/FaceNetProj/src/$ python3 objectDetectionTest.py`
 * Press 'c' to capture image
 * Press 'q' to quit program
+
+### To view demo:
+* https://youtu.be/ZbACKNyKpaE
+* https://youtu.be/tCcnDnl-gE0
