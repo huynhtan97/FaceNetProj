@@ -6,5 +6,7 @@
 
 
 ### To run: 
-* Depending on which python ver. you have: 
-`~/FaceNetProj/src/$ python3 facenet.py OR objectDetectionTest.py`
+* Python version used for demoing was Python v3.6.7 
+`~/FaceNetProj/src/$ python3 objectDetectionTest.py`
+* Press 'c' to capture image
+* Press 'q' to quit program
