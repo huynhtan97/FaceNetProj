@@ -5,6 +5,8 @@
 * facenet_recognition (https://pypi.org/project/facenet_recognition/)
 * paho-mqtt (https://medium.com/python-point/mqtt-basics-with-python-examples-7c758e605d4)
 
+### Other tools used:
+* HiveMQ (https://www.hivemq.com/public-mqtt-broker/)
 
 ### To run: 
 * Python version used for demoing was Python v3.6.7 
